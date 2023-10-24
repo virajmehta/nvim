@@ -6,6 +6,7 @@ return {
         lspconfig.pyright.setup{}
         lspconfig.tsserver.setup{}
         lspconfig.rust_analyzer.setup{}
+        lspconfig.texlab.setup{}
     end,
     },
 }
