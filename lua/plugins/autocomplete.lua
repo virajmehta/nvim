@@ -64,6 +64,7 @@ return {
                 { name = 'nvim_lsp' },
                 { name = 'luasnip' },
                 { name = 'copilot' },
+                { name = 'omni' },
             },
             formatting = {
                 format = lspkind.cmp_format({
